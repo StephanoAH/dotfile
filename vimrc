@@ -189,12 +189,13 @@ Plug 'kristijanhusak/vim-carbon-now-sh'
 " Syntax
 "
 " JavaScript support
-Plug 'pangloss/vim-javascript'
+"Plug 'pangloss/vim-javascript'
 
 " TypeScript syntax
-Plug 'leafgarland/typescript-vim'
+"Plug 'leafgarland/typescript-vim'
 
 " JS and JSX syntax
+Plug 'HerringtonDarkholme/yats.vim'
 Plug 'maxmellon/vim-jsx-pretty'
 
 "-------------------------
