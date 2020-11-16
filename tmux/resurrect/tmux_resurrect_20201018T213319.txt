@@ -1,0 +1,8 @@
+pane	LogicHome-0	1	:zsh	1	:*	1	:/home/stephano/Documents/Programming/StartUp/New/logichome-back-end	1	zsh	:
+pane	LogicHome-0	1	:zsh	1	:*	2	:/home/stephano/Documents/Programming/StartUp/New/logichome-back-end	0	zsh	:
+pane	LogicHome-0	1	:zsh	1	:*	3	:/home/stephano/Documents/Programming/StartUp/New/logichome-back-end	0	lazygit	:lazygit
+pane	LogicHome-0	2	:zsh	0	:-	1	:/home/stephano/Documents/Programming/StartUp/New/front-end	0	zsh	:
+pane	LogicHome-0	2	:zsh	0	:-	2	:/home/stephano/Documents/Programming/StartUp/New/front-end	1	lazygit	:lazygit
+window	LogicHome-0	1	1	:*	fb37,169x39,0,0{73x39,0,0[73x20,0,0,1,73x18,0,21,2],95x39,74,0,3}
+window	LogicHome-0	2	0	:-	3b68,169x39,0,0{84x39,0,0,4,84x39,85,0,5}
+state	LogicHome-0	

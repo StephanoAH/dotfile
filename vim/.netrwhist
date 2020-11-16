@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/stephano/Documents/Programming/React/card-website/src'
+let g:netrw_dirhist_4='/home/stephano/Documents/Programming/React/card-website'
+let g:netrw_dirhist_3='/home/stephano/.vim'
+let g:netrw_dirhist_2='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework/src/Illuminate'
+let g:netrw_dirhist_1='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework/src'
+let g:netrw_dirhist_0='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework'
+let g:netrw_dirhist_9='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel'
+let g:netrw_dirhist_8='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework'
+let g:netrw_dirhist_7='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework/src'
+let g:netrw_dirhist_6='/home/stephano/Documents/Programming/StartUp/logichome-back-end/vendor/laravel/framework'

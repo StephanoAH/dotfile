@@ -1,0 +1,6 @@
+pane	LogicHome-0	1	:zsh	0	:-	1	:/home/stephano/Documents/Programming/StartUp/logichome-back-end	0	zsh	:
+pane	LogicHome-0	1	:zsh	0	:-	2	:/home/stephano/Documents/Programming/StartUp/logichome-back-end	1	zsh	:
+pane	LogicHome-0	2	:zsh	1	:*	1	:/home/stephano/Documents/Programming/StartUp/New/front-end	1	zsh	:
+window	LogicHome-0	1	0	:-	cb19,169x39,0,0[169x19,0,0,2,169x19,0,20,3]
+window	LogicHome-0	2	1	:*	d27e,169x39,0,0,1
+state	LogicHome-0	
